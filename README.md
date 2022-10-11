@@ -2,10 +2,9 @@
 
 Scoreur-Game is developed by Scoreur App Technology.
 
-  <br>
 Description : petite appli conçue pour permettre aux développeurs de se détendre entre deux projets .... ou tout simplement pour s'amuser !!!
 
-
+<br>
 
 
  ## Technologies utilisées : ##
